@@ -1,0 +1,11 @@
+{
+  "name": "icontrol_datagroup",
+  "version": "1.0.0",
+  "description": "node.js library to work with F5 Datagroups via iControl REST",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
